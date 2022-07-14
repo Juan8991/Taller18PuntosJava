@@ -1,0 +1,15 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëû½á
+f	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙùÊ
+@
+java:S5411$"*Use the primitive boolean expression here.(Ô‘Ë¼
+@
+java:S5411*"*Use the primitive boolean expression here.(’™Ä¹
+=
+java:S1125$"'Remove the unnecessary boolean literal.(Ô‘Ë¼
+=
+java:S1125*"'Remove the unnecessary boolean literal.(’™Ä¹
+B
+java:S16022",Remove useless curly braces around statement(ÙùÊ
+V
+java:S1128"@Remove this unused import 'jdk.swing.interop.SwingInterOpUtils'.(ñ©Ìë
